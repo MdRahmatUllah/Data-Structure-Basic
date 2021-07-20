@@ -1,6 +1,6 @@
 # Data-Structure-Basic
 
-```
+```cpp
 #include<bits/stdc++.h>
 
 using namespace std;
